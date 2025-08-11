@@ -1,0 +1,28 @@
+[
+ {
+  "id": 2,
+  "email": "vincent@mail.fr",
+  "roles": [
+   "ROLE_MANAGER",
+   "ROLE_TRANSLATER"
+  ],
+  "last_name": "martin",
+  "created_at": "2025-07-04 11:15:09.000000",
+  "first_name": "vincent",
+  "updated_at": "2025-07-04 11:15:09.000000",
+  "description": "je suis le premier utilisateur"
+ },
+ {
+  "id": 3,
+  "email": "victor@mail.fr",
+  "roles": [
+   "ROLE_MANAGER",
+   "ROLE_TRANSLATER"
+  ],
+  "last_name": "hugo",
+  "created_at": "2025-07-11 09:11:47.000000",
+  "first_name": "victor",
+  "updated_at": "2025-07-11 09:11:47.000000",
+  "description": "je suis un \u00e9crivain"
+ }
+]
